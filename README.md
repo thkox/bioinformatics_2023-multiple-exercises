@@ -5,9 +5,8 @@
 This project is a team assignment for the "Bioinformatics" course, offered in the 6th semester of the 2023 academic year at the University of Piraeus, Department of Informatics. The goal of this project is to implement solutions to specific exercises from the "Introduction to Bioinformatics Algorithms" textbook. The assignment is divided into three main exercises, each contributing to the final grade.
 
 ## Course Information
-
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Bioinformatics (2023)
 - **Semester:** 6th
 
